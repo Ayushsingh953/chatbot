@@ -23,7 +23,7 @@ The project runs in Google Colab. You need:
 
 - An OpenAI API key (to generate embeddings and run ChatGPT model).
 
-    Get it from: [OpenAI API Keys]((https://platform.openai.com/account/api-keys))
+    Get it from: [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 
 ## ⚙️ Setup & Installation (Colab)
 
